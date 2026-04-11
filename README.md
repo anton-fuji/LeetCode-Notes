@@ -4,7 +4,7 @@
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 1     |
+| Easy       | 2     |
 | Medium     | 0     |
 | Hard       | 0     |
 
@@ -13,7 +13,8 @@
 <!-- AUTO-GENERATED: DO NOT EDIT BELOW -->
 | # | Title | Difficulty | Tags |
 |---|-------|------------|------|
-| 66 | [Plus One](problems/0066_plus-one/) | Easy | array, math |
+| 66 | [Plus One](problems/0066-plus-one/) | Easy | array, math |
+| 67 | [Add Binary](problems/0067-add-binary/) | Easy |  |
 <!-- AUTO-GENERATED: END -->
 
 ## Usage
