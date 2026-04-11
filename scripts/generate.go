@@ -215,7 +215,7 @@ func scaffold(num int) error {
 	}
 
 	// go.mod
-	modContent := fmt.Sprintf("module %s\n\ngo 1.22\n", pkg)
+	modContent := fmt.Sprintf("module %s\n\ngo 1.26\n", pkg)
 	if err := os.WriteFile(filepath.Join(dir, "go.mod"), []byte(modContent), 0644); err != nil {
 		return err
 	}
