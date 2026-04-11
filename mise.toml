@@ -1,0 +1,20 @@
+[tasks.new]
+description = "Scaffold a new problem: mise run new -- 42"
+run = "go run scripts/generate.go -new {{arg(i=0)}}"
+
+[tasks.test]
+description = "Test a specific problem: mise run test -- 0001-two-sum"
+run = "cd problems/{{arg(i=0)}} && go test -v"
+
+[tasks.test-all]
+description = "Run all tests"
+run = """
+for dir in problems/*/; do
+  echo "=== ${dir} ==="
+  (cd "$dir" && go test -v) || true
+done
+"""
+
+[tasks.readme]
+description = "Regenerate README.md"
+run = "go run scripts/generate.go"
