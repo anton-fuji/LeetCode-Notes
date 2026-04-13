@@ -4,7 +4,7 @@
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 2     |
+| Easy       | 3     |
 | Medium     | 0     |
 | Hard       | 0     |
 
@@ -15,6 +15,7 @@
 |---|-------|------------|------|
 | 66 | [Plus One](problems/0066-plus-one/) | Easy | array, math |
 | 67 | [Add Binary](problems/0067-add-binary/) | Easy |  |
+| 69 | [Sqrt(x)](problems/0069-sqrtx/) | Easy | Binary Search |
 <!-- AUTO-GENERATED: END -->
 
 ## Usage
