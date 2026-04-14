@@ -16,7 +16,7 @@
 | 66 | [Plus One](problems/0066-plus-one/) | Easy | array, math |
 | 67 | [Add Binary](problems/0067-add-binary/) | Easy |  |
 | 69 | [Sqrt(x)](problems/0069-sqrtx/) | Easy | Binary Search |
-| 70 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy |  |
+| 70 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy | Fibonacci |
 <!-- AUTO-GENERATED: END -->
 
 ## Usage

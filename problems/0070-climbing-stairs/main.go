@@ -1,6 +1,6 @@
 // Problem: 70. Climbing Stairs
 // Difficulty: Easy
-// Tags:
+// Tags: Fibonacci
 // URL: https://leetcode.com/problems/climbing-stairs/
 // Date: 2026-04-14
 
