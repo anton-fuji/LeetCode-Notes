@@ -4,7 +4,7 @@
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 4     |
+| Easy       | 5     |
 | Medium     | 0     |
 | Hard       | 0     |
 
@@ -17,6 +17,7 @@
 | 67 | [Add Binary](problems/0067-add-binary/) | Easy |  |
 | 69 | [Sqrt(x)](problems/0069-sqrtx/) | Easy | Binary Search |
 | 70 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy | Fibonacci |
+| 83 | [Remove Duplicates from Sorted List](problems/0083-remove-duplicates/) | Easy | Singly Linked List |
 <!-- AUTO-GENERATED: END -->
 
 ## Usage
