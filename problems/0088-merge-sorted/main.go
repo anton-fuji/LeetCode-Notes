@@ -2,7 +2,7 @@
 // Difficulty: Easy
 // Tags: Merge
 // URL: https://leetcode.com/problems/merge-sorted-array/
-// Date: YYYY-MM-DD
+// Date: 2026-04-16
 
 package mergesorted
 
