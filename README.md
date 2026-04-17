@@ -4,7 +4,7 @@
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 6     |
+| Easy       | 7     |
 | Medium     | 0     |
 | Hard       | 0     |
 
@@ -19,6 +19,7 @@
 | 70 | [Climbing Stairs](problems/0070-climbing-stairs/) | Easy | Fibonacci |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-remove-duplicates/) | Easy | Singly Linked List |
 | 88 | [Merge Sorted Arrary](problems/0088-merge-sorted/) | Easy | Merge |
+| 94 | [Binary Tree Inorder Traversal](problems/0094-inorder/) | Easy | DFS |
 <!-- AUTO-GENERATED: END -->
 
 ## Usage
