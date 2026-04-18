@@ -4,7 +4,7 @@
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 7     |
+| Easy       | 8     |
 | Medium     | 0     |
 | Hard       | 0     |
 
@@ -13,6 +13,7 @@
 <!-- AUTO-GENERATED: DO NOT EDIT BELOW -->
 | # | Title | Difficulty | Tags |
 |---|-------|------------|------|
+| 100 | [Same Tree](problems/0100-same-tree/) | Easy | DFS |
 | 66 | [Plus One](problems/0066-plus-one/) | Easy | array, math |
 | 67 | [Add Binary](problems/0067-add-binary/) | Easy |  |
 | 69 | [Sqrt(x)](problems/0069-sqrtx/) | Easy | Binary Search |
