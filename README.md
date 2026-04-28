@@ -4,7 +4,7 @@
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 10    |
+| Easy       | 11    |
 | Medium     | 0     |
 | Hard       | 0     |
 
@@ -16,6 +16,7 @@
 | 100 | [Same Tree](problems/0100-same-tree/) | Easy | DFS |
 | 101 | [Symmetric Tree](problems/0101-symmetric-tree/) | Easy | DFS |
 | 104 | [Maximum Depth of Binary Tree](problems/0104-max-depth/) | Easy | DFS |
+| 108 | [Convert Sorted Array to Binary Search Tree](problems/0108-sorted-arr-to-bst/) | Easy | DFS |
 | 66 | [Plus One](problems/0066-plus-one/) | Easy | array, math |
 | 67 | [Add Binary](problems/0067-add-binary/) | Easy |  |
 | 69 | [Sqrt(x)](problems/0069-sqrtx/) | Easy | Binary Search |
